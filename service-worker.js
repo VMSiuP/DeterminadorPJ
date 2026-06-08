@@ -4,7 +4,7 @@
 // Estrategia: cache-first con actualización en red
 // ═══════════════════════════════════════════════════
 
-const CACHE_NAME = 'determinador-v3';
+const CACHE_NAME = 'determinador-v3-1';
 
 const ASSETS = [
   './',
